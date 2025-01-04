@@ -45,7 +45,7 @@ body {
   font-size: 14px;
 }
  .fill {
-   background-image: url('/check.png');
+   background-image: url('check.png');
    position: relative;
    left: 7px;
    top:5px;
